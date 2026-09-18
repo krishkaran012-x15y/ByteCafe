@@ -1,0 +1,6 @@
+1 Coffee 50
+2 Tea 30
+3 Burger 100
+4 Sandwich 80
+5 Cake 120
+6 IceCream 70
